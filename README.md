@@ -1,4 +1,4 @@
-# Hi, I'm Harshini C. 👋
+# Hi, I'm Harshini 👋
 
 ### Computer Science & Business Systems Student | Full-Stack Developer | AI & Data Enthusiast
 
